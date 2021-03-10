@@ -1,9 +1,8 @@
 {
   "name": "soju",
   "version": "1.0.0",
-  "description": "Minimal Landing Page Theme",
   "main": "index.js",
-  "author": "TheBoringDude",
+  "author": "TheBoringDude <iamcoderx@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^10.2.5",
@@ -12,6 +11,6 @@
   },
   "scripts": {
     "dev": "postcss tailwind.css -o assets/main.css",
-    "build": "NODE_ENV=production && yarn dev"
+    "build": "NODE_ENV=production postcss tailwind.css -o assets/main.css"
   }
 }
