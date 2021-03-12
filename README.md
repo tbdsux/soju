@@ -1,10 +1,8 @@
 # soju
+Simple, Minimal Landing Page with TailwindCSS.
 
+### Info:
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
-
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
-
-TODO: Delete this and the text above, and describe your gem
 
 
 ## Installation
@@ -12,13 +10,13 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "soju"
+gem "soju-jekyll"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: soju
+theme: soju-jekyll
 ```
 
 And then execute:
@@ -27,7 +25,22 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install soju
+    $ gem install soju-jekyll
+
+### TailwindCSS
+Install `node` packages:
+
+    $ yarn install
+
+Create Development CSS:
+
+    $ yarn dev
+
+Build CSS for Production:
+
+    $ yarn build
+
+
 
 ## Usage
 
