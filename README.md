@@ -1,6 +1,8 @@
 # soju
 Simple, Minimal Landing Page with TailwindCSS.
 
+It was meant to be for general-purpose but then, the font made it look like a website for a **`code package`**.
+
 ### Info:
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
