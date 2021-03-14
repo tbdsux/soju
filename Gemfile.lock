@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    soju (0.1.0)
+    soju-jekyll (0.1.0)
       jekyll (~> 4.2)
       jekyll-seo-tag (~> 2.6)
       jekyll-sitemap (~> 1.4)
@@ -75,7 +75,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
-  soju!
+  soju-jekyll!
 
 BUNDLED WITH
    2.2.13
