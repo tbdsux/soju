@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "soju-jekyll"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["TheBoringDude"]
   spec.email         = ["iamcoderx@gmail.com"]
 
-  spec.summary       = "Write a short summary, because Rubygems requires one."
+  spec.summary       = "Simple and Minimal Landing Page | Jekyll Theme"
   spec.homepage      = "https://github.com/TheBoringDude/soju"
   spec.license       = "MIT"
 

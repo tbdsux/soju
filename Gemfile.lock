@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    soju-jekyll (0.1.0)
+    soju-jekyll (0.1.1)
       jekyll (~> 4.2)
       jekyll-seo-tag (~> 2.6)
       jekyll-sitemap (~> 1.4)
@@ -70,6 +70,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
